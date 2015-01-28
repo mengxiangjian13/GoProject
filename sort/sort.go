@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"github.com/mengxiangjian13/project/sort/bubblesort"
+	"github.com/mengxiangjian13/GoProject/sort/bubblesort"
 	"io"
 	"os"
 	"strconv"
